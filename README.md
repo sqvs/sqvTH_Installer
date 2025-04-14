@@ -2,7 +2,7 @@
 Thunderhack installer + config
 Minecraft Client 
 
-Last Config: sqv.v0.4.6P.Release
+Last Config: sqv.v0.4.6.7P.Release
 
 How to use installer?
 First, ur minecraft (.minecraft folder) (pirate) Directory need to be in: C:\Users\urUser\AppData\Roaming\
